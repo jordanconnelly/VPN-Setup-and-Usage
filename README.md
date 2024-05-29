@@ -39,10 +39,12 @@ Back on our computer, we will sign up for ProtonVPN. Once we are signed up we wi
 <p></p>
 Now we will connect to the VPN server in a different country, I chose The Netherlands.
 <p>
-<img src=".png" height="40%" width="80%">
+<img src="https://imgur.com/SoZMt2c.png" height="40%" width="80%">
 <p></p>
 Open a browser and go to "www.whatismyipaddress.com" again and we can observe our IP address has changed to a location in The Netherlands.
 <p>
-<img src=".png" height="40%" width="80%">
+<img src="https://imgur.com/USM2X7x.png" height="40%" width="80%">
 <p></p>
-Now when we go to websites such as "www.google.com", "www.youtube.com", and "www.disney.com" the computer assumes we are in The Netherlands and shows us the content for that country.
+Now when we go to websites such as "www.google.com" or "www.amazon.com" the computer assumes we are in The Netherlands and shows us the content for that country in Dutch.
+<p>
+<img src="https://imgur.com/0Tq8yR4.png" height="40%" width="80%"><img src="https://imgur.com/knsYzmx.png" height="40%" width="80%">
